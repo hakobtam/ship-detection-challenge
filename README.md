@@ -7,4 +7,4 @@ The project is based on [PyTorch](http://pytorch.org/) deep learning framework. 
 
 I also tried to train another network that detects is there any ship in a satellite image or not using transfer learing to increase accuracy of segmentation model.
 
-For better performance I tried to use different training techniques like: [Focal loss](https://arxiv.org/abs/1708.02002), [Cyclical Learning Rate](https://arxiv.org/abs/1506.01186), [SGDR](https://arxiv.org/abs/1608.03983), [FGE](https://arxiv.org/abs/1802.10026), [SWA](https://arxiv.org/abs/1803.05407). However, because of the luck of time and compute power I didn't manage to use them all.
+For better performance I tried to use different training techniques like: Data Augmentation, [Focal Loss](https://arxiv.org/abs/1708.02002), [Cyclical Learning Rate](https://arxiv.org/abs/1506.01186), [SGDR](https://arxiv.org/abs/1608.03983), [FGE](https://arxiv.org/abs/1802.10026), [SWA](https://arxiv.org/abs/1803.05407). However, because of the luck of time and compute power I didn't manage to use them all.
